@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Hachimanx9x/Boostrap/issues"
   },
-  "homepage": "https://github.com/Hachimanx9x/Boostrap#readme"
+  "homepage": "https://github.com/Hachimanx9x/Boostrap#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
